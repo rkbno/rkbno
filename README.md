@@ -1,10 +1,10 @@
 ### Olá! Eu sou o Breno Teixeira Martins 👋
 
 
-
+- 21 Years
 - 🔭 Atualmente trabalhando como vendedor
 - 🌱 Estudando Front End
-- 👯 Fale comigo no email: brenotm10@gmail.com
+
 
 
 <div align="center">
