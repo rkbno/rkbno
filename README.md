@@ -2,7 +2,7 @@
 
 
 - 22 Years
-- 🔭 Atualmente trablho como autônomo 
+- 🔭 Atualmente trabalho como autônomo 
 - 🌱 Estudando Front End
 
   
