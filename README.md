@@ -2,7 +2,7 @@
 
 
 - 22 Years
-- 🔭 Atualmente trabalho como autônomo 
+- 🔭 Estagiário em informática - SE7EN  
 - 🌱 Estudando Front End
 
   
