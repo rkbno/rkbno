@@ -3,7 +3,7 @@
 
 - 22 Years
 - 🔭 Estagiário em informática - SE7EN  
-- 🌱 Estudando Front End
+- 🌱 Studing Front-End
 
   
   <div align="center">
