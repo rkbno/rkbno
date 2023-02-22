@@ -1,4 +1,4 @@
-### Olá! Eu sou o Breno Teixeira Martins 👋
+### Hello! I am Breno Texeira Martins 👋
 
 
 - 22 Years
