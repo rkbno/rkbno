@@ -2,8 +2,8 @@
 
 
 - 22 Years
-- 🔭 Computer trainee - SE7EN  
-- 🌱 Studying Front-End
+- 🔭 I work as a Freela  
+- 🌱 front end student
 
   
   <div align="center">
