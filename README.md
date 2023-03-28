@@ -2,8 +2,8 @@
 
 
 - 22 Years
-- 🔭 I work as a Freela  
-- 🌱 front end student
+- 🔭  I work as a Freela  
+- 🌱  Front end student
 
   
   <div align="center">
