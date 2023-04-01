@@ -6,7 +6,7 @@
 - 🔭  22 Years
 - 🌱  I work as a Freela  
 - 🔥  Front end student
-- 👨‍💻  My main projects [rkbno.dev](https://kick-rkbno.netlify.app/)
+- 👨‍💻  My main projects [rkbno.dev](https://portfolio-rkbno.netlify.app/)
 <br><br><br>
   ## ⚙️ &nbsp;GitHub Analytics
   <div>
