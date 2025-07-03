@@ -3,8 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkbno&color=yellow" alt="Profile views" /> </p>
 
 
-- 🔭  23 Years
-- 🌱  I work as a Freela  
+- 🔭  24 Years
 - 🔥  Front end student
 - 👨‍💻  My main project [rkbno.dev](https://portfolio-rkbno.netlify.app/)
 <br><br><br>
