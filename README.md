@@ -5,7 +5,7 @@
 
 - 🔭  25 Years
 - 🔥  Cyber Securty Studing
-- 👨‍💻  My main project [rkbno.dev]([https://rkbno.github.io/desenvolvedor-teixeira/])
+- 👨‍💻  My main project [rkbno.dev](https://rkbno.github.io/desenvolvedor-teixeira/)
 <br><br><br>
 
   
